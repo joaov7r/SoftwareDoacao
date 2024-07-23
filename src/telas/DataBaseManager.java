@@ -11,7 +11,7 @@ public class DataBaseManager {
     private static String porta = "3306";
     private static String db = "doacao_sangue";
     private static String usuario = "root";
-    private static String senha = "Jv31415161@";
+    private static String senha = "password";
     
     public static Connection obtemConexao (){
         try {
